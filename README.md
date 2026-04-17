@@ -12,6 +12,8 @@ Project ini merupakan simulasi jaringan WAN (Wide Area Network) menggunakan **Ci
 
 ## 🏢 Topologi Jaringan
 
+topologi.png
+
 Perusahaan xyz.net memiliki struktur kantor sebagai berikut:
 
 | Branch | Router | Switch | Perangkat |
